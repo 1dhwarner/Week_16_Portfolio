@@ -7,4 +7,4 @@ This is technically the second iteration of my portfolio after an earlier homewo
 The application is deployed here: https://1dhwarner.github.io/Week_08_Portfolio/
 
 This image shows the portfolio's appearance in the browser:
-![screenshot](assets/images/readme_sc.png)
+![screenshot](assets/images/readme_sc2.png)
