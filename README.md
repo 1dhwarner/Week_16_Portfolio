@@ -4,7 +4,7 @@ Portfolio to demonstrate the progress I made in the first 8 weeks of attending t
 
 This is technically the second iteration of my portfolio after an earlier homework assignment.
 
-The application is deployed here: https://1dhwarner.github.io/Week_08_Portfolio/
+The application is deployed here: https://1dhwarner.github.io/Week_16_Portfolio/
 
 This image shows the portfolio's appearance in the browser:
 ![screenshot](assets/images/readme_sc2.png)
