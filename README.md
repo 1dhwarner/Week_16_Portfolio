@@ -1,4 +1,4 @@
-# David's Week_08_Portfolio
+# David's Week_16_Portfolio
 
 Portfolio to demonstrate the progress I made in the first 8 weeks of attending the University of Denver Coding boot camp.
 
